@@ -15,3 +15,6 @@ Objectif:
 
 ## Les exemples du speeker:
 https://github.com/jcsirot/ansible-meetup
+
+## Best practise
+http://docs.ansible.com/ansible/latest/playbooks_best_practices.html#content-organization
