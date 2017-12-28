@@ -25,3 +25,6 @@ Deploiement d'un war dans un tomcat
   http://aseigneurin.github.io/2014/11/04/ansible-pour-deployer-des-applications.html
 
   https://github.com/aseigneurin/ansible-sandbox
+
+Exemple de playbook
+  https://github.com/ansible/ansible-examples
