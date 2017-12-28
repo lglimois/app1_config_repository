@@ -17,8 +17,13 @@ Objectif:
 https://github.com/jcsirot/ansible-meetup
 
 ## Best practise
-http://docs.ansible.com/ansible/latest/playbooks_best_practices.html#content-organization
+  http://docs.ansible.com/ansible/latest/playbooks_best_practices.html#content-organization
+  montre l'arborescence et alternative, la structure utilisée dans differents projets avec les group_vars
 
+## syntaxe avec les var dans l'inventory
+  http://docs.ansible.com/ansible/latest/intro_inventory.html#group-variables
+  ansible_host
+  
 ## Tuto ansible
 Deploiement d'un war dans un tomcat
 
