@@ -31,10 +31,10 @@ Deploiement d'un war dans un tomcat
 
   https://github.com/aseigneurin/ansible-sandbox
 
-##Exemple de playbook
+## Exemple de playbook
   https://github.com/ansible/ansible-examples
 
-##Tester l'existence de variable:
+## Tester l'existence de variable:
   - assert:
     that:
       - "my_param <= 100"
