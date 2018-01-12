@@ -31,5 +31,16 @@ Deploiement d'un war dans un tomcat
 
   https://github.com/aseigneurin/ansible-sandbox
 
-Exemple de playbook
+##Exemple de playbook
   https://github.com/ansible/ansible-examples
+
+##Tester l'existence de variable:
+  - assert:
+    that:
+      - "my_param <= 100"
+      - "my_param >= 0"
+    msg: "'my_param' must be between 0 and 100"
+    
+   - fail: msg="Bailing out. this play requires 'bar'"
+      when: bar is undefined
+  
